@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\PrimerWinForm\Modelos\bin\Debug\Modelos.dll
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\PrimerWinForm\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\PrimerWinForm\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\PrimerWinForm\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\PrimerWinForm\Modelos\obj\Debug\Modelos.dll
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\PrimerWinForm\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 3 C#\Pokemon-web\Modelos\bin\Debug\Modelos.dll
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 3 C#\Pokemon-web\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 3 C#\Pokemon-web\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 3 C#\Pokemon-web\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 3 C#\Pokemon-web\Modelos\obj\Debug\Modelos.dll
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 3 C#\Pokemon-web\Modelos\obj\Debug\Modelos.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon-Web", "Pokemon-Web\Pokemon-Web.csproj", "{BF3E6D3D-4EAC-402E-9841-D3A2AAC23BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{065CF868-4E71-40EA-AE51-859FB92549EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{C164EDD4-16D0-418A-B578-6AB774D8DD25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3E6D3D-4EAC-402E-9841-D3A2AAC23BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3E6D3D-4EAC-402E-9841-D3A2AAC23BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3E6D3D-4EAC-402E-9841-D3A2AAC23BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3E6D3D-4EAC-402E-9841-D3A2AAC23BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065CF868-4E71-40EA-AE51-859FB92549EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065CF868-4E71-40EA-AE51-859FB92549EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065CF868-4E71-40EA-AE51-859FB92549EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065CF868-4E71-40EA-AE51-859FB92549EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C164EDD4-16D0-418A-B578-6AB774D8DD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C164EDD4-16D0-418A-B578-6AB774D8DD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C164EDD4-16D0-418A-B578-6AB774D8DD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C164EDD4-16D0-418A-B578-6AB774D8DD25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C193C9B4-512E-4F13-93DC-77F263EC06A8}
+	EndGlobalSection
+EndGlobal
